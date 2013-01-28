@@ -1,5 +1,5 @@
 #genel_cerceve {
-width: 1500px;
+width: 1445px;
 height: 1000px;
 background-color: #336666;
 margin-left: auto;
@@ -70,59 +70,46 @@ float: left;
 margin-right: 10px;
 }
 
-#menu{
-width: 1090px;
-height:20px;
-float: left;
-
-}
 #image{
-float: left;}
+float: left;
+}
 #image2{
 float: left;
 }
 #yanmenu1{
-margin-left:-1090px;
-margin-top:64px;
 float: left;
+
 }
 #yeni1 {
 width: 400px;
 height: 765px;
 background-color: white;
 float: left;
-margin-top : 44px;
-margin-right: 500px;
 padding: 0.5em;
 
 }
 
 #yanmenu2{
-margin-top:44px;
-margin-left: -500px;
 float:left;
 
 }
 #yeni2 {
-width: 450px;
+width: 500px;
 height: 765px;
 background-color: white;
 float: left;
-margin-top : 44px;
-margin-left: -474px;
 padding: 0.5em;
 
 }
 
 
 #yeni3 {
-width: 470px;
+width: 420px;
 height: 765px;
 background-color: white;
 float: left;
-margin-top : 44px;
-margin-left: -5px;
 padding: 0.5em;
+
 
 }
  
