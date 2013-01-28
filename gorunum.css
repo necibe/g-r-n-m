@@ -87,37 +87,41 @@ margin-top:64px;
 float: left;
 }
 #yeni1 {
-width: 500px;
+width: 400px;
 height: 765px;
 background-color: white;
 float: left;
 margin-top : 44px;
+margin-right: 500px;
 padding: 0.5em;
 
 }
 
 #yanmenu2{
 margin-top:44px;
+margin-left: -500px;
 float:left;
 
 }
 #yeni2 {
-width: 100px;
+width: 450px;
 height: 765px;
 background-color: white;
 float: left;
 margin-top : 44px;
+margin-left: -474px;
 padding: 0.5em;
 
 }
 
+
 #yeni3 {
-width: 400px;
+width: 470px;
 height: 765px;
 background-color: white;
 float: left;
 margin-top : 44px;
-margin-left: 20px;
+margin-left: -5px;
 padding: 0.5em;
 
 }
