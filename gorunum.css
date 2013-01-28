@@ -86,7 +86,8 @@ height: 765px;
 background-color: white;
 float: left;
 padding: 0.5em;
-
+overflow: scroll;
+overflow-y:hidden;
 }
 
 #yanmenu2{
@@ -99,6 +100,8 @@ height: 765px;
 background-color: white;
 float: left;
 padding: 0.5em;
+overflow: scroll;
+overflow-x:hidden;  
 
 }
 
@@ -109,7 +112,7 @@ height: 765px;
 background-color: white;
 float: left;
 padding: 0.5em;
-
+overflow: scroll;
 
 }
  
